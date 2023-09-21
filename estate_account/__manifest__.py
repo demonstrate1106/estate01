@@ -4,7 +4,7 @@
     'summary': """""",
     'description': """Some Extra Feature for Real Estate Module Like Invoicing and Playground(Compiler)""",
     'author': "Awadhesh Giri ,  iTech Classes",
-    'website': "http://www.demonstrate.com",
+    'website': "https://youtube.com/@AryaTechnologyATECH?si=xB6zR7gCNFGXFlQ_",
     'category': 'Real Estate Property ',
     'price': '2.0',
     'currency': 'USD',
