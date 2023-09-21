@@ -8,7 +8,8 @@
     'category': 'Real Estate Property ',
     'price': '2.0',
     'currency': 'USD',
-    'license': 'OPL-1',
+    'license': 'GPL-15',
+    'required' : 'real_estate_apps',
     'version': '15.0.1.1.0',
 
     'depends': ['real_estate_apps', 'account'],
