@@ -10,7 +10,7 @@
     'currency': 'USD',
     'version': '0.1',
 
-    'depends': ['real_estate_app', 'account'],
+    'depends': ['real_estate_apps', 'account'],
     'data': [
         'security/ir.model.access.csv',
         'views/odoo_playground_view.xml',
