@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Estate_Account",
+    'name': "Real Estate - Invoice ",
     'summary': """""",
-    'description': """Long description of module's purpose""",
+    'description': """Some Extra Feature for Real Estate Module Like Invoicing and Playground(Compiler)""",
     'author': "Awadhesh Giri ,  iTech Classes",
-    'website': "http://www.yourcompany.com",
-    'category': 'Uncategorized',
+    'website': "http://www.demonstrate.com",
+    'category': 'Real Estate Property ',
     'price': '2.0',
     'currency': 'USD',
     'version': '0.1',
 
-    'depends': ['real_estate', 'account'],
+    'depends': ['real_estate_app', 'account'],
     'data': [
         'security/ir.model.access.csv',
         'views/odoo_playground_view.xml',
