@@ -1,0 +1,17 @@
+<odoo>
+    <template id="report_estate_offer_inherit" inherit_id="real_estate.report_property_offers">
+
+        <xpath expr="//table[@class='table']" position="before">
+            <div style="font-size:25px;font-family:Times New Roman;border:1px solid green;background-color:#f6d8ac;text-align: center;">
+                <t t-if="property.state =='sold'">
+                    <strong>!!! Invoice Has Already been Created!!!</strong>
+                </t>
+                <t t-else="">
+                    <strong style="color:red;">Invoice Is Not Created Till Yet!!!</strong>
+                </t>
+            </div>
+            <br/>
+        </xpath>
+    </template>
+</odoo>
+
