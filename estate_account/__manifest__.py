@@ -21,8 +21,8 @@
     'demo': [
         'views/templates.xml',
     ],
+    'images': ['static/description/image.png'],
     'installable': True,
     'application': True,
     'auto-install': False,
-    
 }
